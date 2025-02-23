@@ -1,0 +1,33 @@
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/run/media/ikura/(D)ATA/BACKUP FLASHDISK/EOS/25/jan/Screenshots/Screenshot_20241108_181111.png
+File10[$e]=$HOME/Pictures/〆/Sacabambaspis.png
+File2[$e]=$HOME/Pictures/〆/463865282_3865219863754855_7357275659033183542_n.jpg
+File3[$e]=$HOME/Pictures/〆/457600340_936053531895323_4659511958676481995_n.jpg
+File4[$e]=$HOME/Pictures/〆/468735228_122157290096281896_2739893919026866156_n.jpg
+File5[$e]=$HOME/Pictures/〆/1000013937.jpg
+File6[$e]=$HOME/Pictures/〆/1614676782607.jpg
+File7[$e]=$HOME/Pictures/〆/1653646472684.jpg
+File8[$e]=$HOME/Pictures/〆/1718666976871.png
+File9[$e]=$HOME/Pictures/〆/1681785569984228.jpg
+Name1[$e]=Screenshot_20241108_181111.png
+Name10[$e]=Sacabambaspis.png
+Name2[$e]=463865282_3865219863754855_7357275659033183542_n.jpg
+Name3[$e]=457600340_936053531895323_4659511958676481995_n.jpg
+Name4[$e]=468735228_122157290096281896_2739893919026866156_n.jpg
+Name5[$e]=1000013937.jpg
+Name6[$e]=1614676782607.jpg
+Name7[$e]=1653646472684.jpg
+Name8[$e]=1718666976871.png
+Name9[$e]=1681785569984228.jpg
+
+[SideBar]
+InformationSplitterSizes=220,255
+SideBarSplitterSizes=227,1138
