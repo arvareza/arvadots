@@ -1,6 +1,6 @@
 <p align="center">                                                                                     
                   <h1 align="center">Arvareza's dots</h1>                                                                                    
-          <img src="dotsbanner.png" />
+          <img src="images/dotsbanner.png" />
                   
   </a>
 </p> 
