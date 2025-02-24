@@ -95,6 +95,9 @@ bindsym $mod+n exec dolphin
 #   WM Navigation   #
 #####################
 
+# screenshot
+bindsym Print exec scrot ~/Pictures/Screenshots/i3/%Y-%m-%d-%T-screenshot.png && notify-send "Screenshot saved to ~/Pictures/Screenshots/i3/$(date +"%Y-%m-%d-%T")-screenshot.png"
+
 # change focus
 bindsym $mod+j focus left
 bindsym $mod+k focus down
@@ -138,7 +141,7 @@ bindsym $mod+s layout stacking
 bindsym $mod+e layout toggle split
 
 # toggle tiling / floating
-bindsym $mod+Shift+/ floating toggle
+bindsym $mod+Shift+q floating toggle
 
 # change focus between tiling / floating windows
 bindsym $mod+space focus mode_toggle
