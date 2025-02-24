@@ -1,6 +1,7 @@
 <p align="center">                                                                                     
-          <img src="dotsbanner.png"
                   <h1 align="center">Arvareza's dots</h1>                                                                                    
+          <img src="dotsbanner.png" />
+                  
   </a>
 </p> 
 <p align="center">Catppuccin-themed i3wm and Arch Linux rice</p>
