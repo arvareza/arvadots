@@ -4,8 +4,8 @@
                   
   </a>
 </p> 
-<p align="center">Catppuccin-themed i3wm and Arch Linux rice</p>
-<p align="center">Loosely inspired by typecraft's dotfiles</p>
+<p align="center">cattppuccin-themed i3wm and arch linux rice</p>
+<p align="center">loosely inspired by typecraft's dotfiles</p>
 <p align="center">
 
 ## Softwares
@@ -20,6 +20,7 @@
 - [Betterlockscreen](https://github.com/betterlockscreen/betterlockscreen)
 - [Neovim](https://neovim.io/)
 - [AstroNvim](https://astronvim.com/)
+- [Dunst](https://github.com/dunst-project/dunst)
 
 
 ## Credits
