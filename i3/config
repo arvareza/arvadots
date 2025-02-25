@@ -47,6 +47,9 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 # start nmapplet
 exec --no-startup-id nm-applet
 
+# start desktop notification
+exec --no-startup-id /usr/bin/dunst --config ~/.config/dunst/dunstrc
+
 # volume adjustments
 set $refresh_i3status killall -SIGUSR1 i3status
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
