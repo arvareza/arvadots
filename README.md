@@ -4,7 +4,7 @@
                   
   </a>
 </p> 
-<p align="center">cattppuccin-themed i3wm and arch linux rice</p>
+<p align="center">catppuccin-themed i3wm and arch linux rice</p>
 <p align="center">loosely inspired by typecraft's dotfiles</p>
 <p align="center">
 
