@@ -1,0 +1,98 @@
+@import "catppuccin-mocha"
+
+* {
+  selected-active-foreground:  @background;
+  lightfg:                     @text;
+  separatorcolor:              @maroon;
+  urgent-foreground:           @red;
+  alternate-urgent-background: @lightbg;
+  lightbg:                     @mantle;
+  background-color:            transparent;
+  border-color:                @foreground;
+  normal-background:           @background;
+  selected-urgent-background:  @red;
+  alternate-active-background: @lightbg;
+  spacing:                     2;
+  alternate-normal-foreground: @foreground;
+  urgent-background:           @background;
+  selected-normal-foreground:  @lightbg;
+  active-foreground:           @blue;
+  background:                  @base;
+  selected-active-background:  @blue;
+  active-background:           @background;
+  selected-normal-background:  @maroon;
+  alternate-normal-background: @lightbg;
+  foreground:                  @text;
+  selected-urgent-foreground:  @background;
+  normal-foreground:           @foreground;
+  alternate-urgent-foreground: @red;
+  alternate-active-foreground: @blue;
+
+}
+
+configuration {
+  display-drun: "open";
+  display-window: "which";
+  drun-display-format: "{icon} {name}";
+  font: "FantasqueSansMono 14";
+  modi: "window,run,drun";
+  show-icons: true;
+}
+
+
+window {
+  width: 45%;
+  background-color: @background;
+}
+
+element {
+  padding: 6 10;
+  background-color: transparent;
+  text-color: @alternate-normal-foreground;
+}
+
+element selected {
+  text-color: @foreground;
+  background-color: @selected-normal-background;
+}
+
+element-text {
+  background-color: transparent;
+  text-color: inherit;
+  vertical-align: 0.5;
+}
+
+element-icon {
+  size: 21;
+  padding: 0 8 0 0;
+  background-color: transparent;
+}
+
+entry {
+  padding: 10;
+  background-color: @alternate-normal-background;
+  text-color: @foreground;
+}
+
+inputbar {
+  children: [prompt, entry];
+  background-color: @background;
+}
+
+listview {
+  background-color: @background;
+  columns: 1;
+  lines: 7;
+}
+
+mainbox {
+  children: [inputbar, listview];
+  background-color: @background;
+}
+
+prompt {
+  enabled: true;
+  padding: 10 0 0 10;
+  background-color: @alternate-normal-background;
+  text-color: @foreground;
+}

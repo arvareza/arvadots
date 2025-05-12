@@ -1,9 +1,0 @@
-[General]
-FreeFloating=true
-historyBehavior=Disabled
-
-[Plugins]
-krunner_servicesEnabled=false
-
-[Plugins][Favorites]
-plugins=krunner_services,krunner_systemsettings

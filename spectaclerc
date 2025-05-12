@@ -1,9 +1,0 @@
-[GuiConfig]
-captureMode=0
-
-[ImageSave]
-lastImageSaveLocation=file:///home/ikura/Pictures/Screenshots/Screenshot_20250210_210301.png
-translatedScreenshotsFolder=Screenshots
-
-[VideoSave]
-translatedScreencastsFolder=Screencasts
