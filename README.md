@@ -21,7 +21,7 @@
 - [Neovim](https://neovim.io/)
 - [AstroNvim](https://astronvim.com/)
 - [Dunst](https://github.com/dunst-project/dunst)
-- [Ranger] (https://github.com/ranger/ranger)
+- [Ranger](https://github.com/ranger/ranger)
 
 ## Credits
 - [typecraft's dotfiles](https://github.com/typecraft-dev/dotfiles)
